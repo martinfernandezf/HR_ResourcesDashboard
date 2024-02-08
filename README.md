@@ -30,8 +30,8 @@ A continuación, se muestra una imagen que representa una vista previa del dashb
 
 A continuación, se muestra una vista previa del dashboard de análisis de recursos humanos en formato PNG:
 
-[Ver Imagen del Dashboard](DASHBOARD.png)
 
+![Snapshot del Dashboard](DASHBOARD.png)
 Esta imagen proporciona una visión general de las visualizaciones y la interfaz del dashboard, permitiendo a los usuarios tener una idea rápida de cómo se presenta la información y cómo pueden interactuar con ella.
 
 
