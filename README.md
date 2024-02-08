@@ -22,18 +22,12 @@ El dashboard se puede abrir y explorar utilizando Power BI Desktop o la versión
 
 Para acceder al dashboard, simplemente descargue el archivo .pbix adjunto y ábralo utilizando Power BI Desktop o cargue el archivo en Power BI Service para acceder a la versión web del dashboard.
 
-## Snapshot del Dashboard
-
-A continuación, se muestra una imagen que representa una vista previa del dashboard de análisis de recursos humanos:
 
 ## Snapshot del Dashboard
 
 A continuación, se muestra una vista previa del dashboard de análisis de recursos humanos en formato PNG:
 
-
 ![Snapshot del Dashboard](DASHBOARD.png)
-Esta imagen proporciona una visión general de las visualizaciones y la interfaz del dashboard, permitiendo a los usuarios tener una idea rápida de cómo se presenta la información y cómo pueden interactuar con ella.
-
 
 
 Esta imagen ofrece una visión general de las visualizaciones y la interfaz del dashboard, permitiendo a los usuarios tener una idea rápida de cómo se presenta la información y cómo pueden interactuar con ella.
