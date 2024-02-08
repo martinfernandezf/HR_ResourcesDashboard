@@ -26,7 +26,14 @@ Para acceder al dashboard, simplemente descargue el archivo .pbix adjunto y ábr
 
 A continuación, se muestra una imagen que representa una vista previa del dashboard de análisis de recursos humanos:
 
-[Ver PDF del Dashboard](HR_ResourcesDashboard/HRDashboard.pdf)
+## Snapshot del Dashboard
+
+A continuación, se muestra una vista previa del dashboard de análisis de recursos humanos en formato PNG:
+
+[Ver Imagen del Dashboard](DASHBOARD.png)
+
+Esta imagen proporciona una visión general de las visualizaciones y la interfaz del dashboard, permitiendo a los usuarios tener una idea rápida de cómo se presenta la información y cómo pueden interactuar con ella.
+
 
 
 Esta imagen ofrece una visión general de las visualizaciones y la interfaz del dashboard, permitiendo a los usuarios tener una idea rápida de cómo se presenta la información y cómo pueden interactuar con ella.
